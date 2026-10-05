@@ -1,0 +1,6 @@
+project.env
+.env
+.env.*
+build/
+.dart_tool/
+node_modules/
